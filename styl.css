@@ -1,0 +1,87 @@
+
+css
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.empty-grid {
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.empty-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    filter: brightness(1.08) contrast(1.15);
+}
+
+
+
+.second-grid {
+    margin-top: 100px;
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.second-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.third-grid {
+    margin-top: 100px;
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.third-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.fourth-grid {
+    
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.fourth-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+h1{
+    color: black;
+}
